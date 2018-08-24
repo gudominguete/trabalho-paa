@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1535071634 source:/home/gustavo/Downloads/mestrado/paa/trabalho-paa-1/src/Aresta.cpp
+	"Aresta.h"
+
+1535071634 /home/gustavo/Downloads/mestrado/paa/trabalho-paa-1/include/Aresta.h
+
+1535071407 source:/home/gustavo/Downloads/mestrado/paa/trabalho-paa-1/src/Vertice.cpp
+	"Vertice.h"
+
+1535074155 /home/gustavo/Downloads/mestrado/paa/trabalho-paa-1/include/Vertice.h
+
+1535074200 source:/home/gustavo/Downloads/mestrado/paa/trabalho-paa-1/main.cpp
+	<iostream>
+	<Vertice.h>
+
